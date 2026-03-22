@@ -1,11 +1,11 @@
 # My Discrete Math Repository
 
-## Homework 2 - 202655### (Your ID) HONG GIL DONG
+## Homework 2 - 202655348 오주안
 
 ### 2.1 Equation Editing
 | # | text | formula |
 |---|------|---------|
-| 1 | IF (P AND Q) THEN R | $$P$$|
+| 1 | IF (P AND Q) THEN R | $(P \wedge Q) \rightarrow R$|
 | 2 | (P XOR Q) OR R | $$P$$      |
 | 3 | NOT P IFF Q |  $$P$$   |
 | 4 | FOR ALL x, P(x) | $$P$$  |
