@@ -23,7 +23,7 @@ Using the propositions
 
 Translate the following into statements of propositional logic:
 
-1. If I do not study, then I will only pass the course if the professor accepts bribes.
+
 1. If I do not study, then I will only pass the course if the professor accepts bribes.<br>
   $$p$$
 2. If the professor accepts bribes, then I do not study.
